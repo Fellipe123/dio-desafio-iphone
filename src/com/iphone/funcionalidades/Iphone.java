@@ -47,8 +47,8 @@ public class Iphone implements AparelhoTelefone, NavegadorInternet, ReprodutorMu
      }
 
      @Override
-     public void iniciarConversa() {
-          System.out.println("iniciando conversa");
+     public void iniciarCorreioVoz() {
+          System.out.println("iniciando correio voz");
      }
 
 }

@@ -14,7 +14,7 @@ public class ExecutandoIphone{
           // Funcionalidades do Aparelho Telefonico
           iphone.ligar("11 98787 0202");
           iphone.atender();
-          iphone.iniciarConversa();
+          iphone.iniciarCorreioVoz();
           
           // Funcionalidades do Reprodutor Musical 
           iphone.tocar();;
