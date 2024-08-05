@@ -8,4 +8,4 @@
 
 # Diagrama UML
 
-![](https://github.com/user-attachments/assets/ce7b0bca-80e0-4f23-a0f8-d5456cd67675))
+![](https://github.com/user-attachments/assets/f0d23d79-94cb-4b7b-b38e-51f8f5e8ad64))
